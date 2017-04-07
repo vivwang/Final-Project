@@ -11,6 +11,13 @@ A pillow activated by data collected from pulse sensor wirelessly. When activate
 * Servos can turn to a certain degree
 * Servo attach to a lever to rotate the arm
 * Platform inside pillow to support all components
+### Code
+* pulse sensor √
+* connect 2 motors with xbee
+* pulse sensor moves motors
+* Pulse sensor moves motors only when state changes
+* Pulse sensor activate light
+* Pulse sensor activate light when state changes
  
 
 ## Part 2- Pulse Sensor
