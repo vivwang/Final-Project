@@ -13,9 +13,10 @@ A pillow activated by data collected from pulse sensor wirelessly. When activate
 * Platform inside pillow to support all components
 ### Code
 * pulse sensor √
-* connect 2 motors with xbee
-* pulse sensor moves motors
-* Pulse sensor moves motors only when state changes
+* connect 2 motors √
+* connect xBee
+* pulse sensor moves motors √
+* Pulse sensor moves motors only when state changes √
 * Pulse sensor activate light
 * Pulse sensor activate light when state changes
  
