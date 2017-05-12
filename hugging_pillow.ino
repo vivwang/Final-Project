@@ -14,7 +14,7 @@ int count2 = 0;
 
 const int sampleWindow = 250; // Sample window width in mS (250 mS = 4Hz)
 unsigned int knock;
-int ledPin = 9;
+int ledPin = 11;
 int brightness = 0;    // how bright the LED is
 int fadeAmount = 1;    // how many points to fade the LED by
 
